@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow:hidden;
+    margin: 0rem !important;
+    font-family: "roboto";
+}
+.container {
+background-color: #1f1b2c;
+width: 100%;
+height: 100%;
+}
